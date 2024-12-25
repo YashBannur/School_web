@@ -29,6 +29,7 @@
     width: 200%;
     overflow-x: hidden;
     transition: 0.5s;
+   
 }
 
 .slider ul li{
@@ -58,4 +59,7 @@
     align-items: center;
     margin-bottom: 20px;
     font-size: 15px;
+}
+.user-info h3{
+    color: #212EA0;
 }
